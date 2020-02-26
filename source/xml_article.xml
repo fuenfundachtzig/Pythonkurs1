@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<webArticle category="news" subcategory="technical">
+    <header title="NASA Builds Warp Drive"
+           length="3k"
+           author="Joe Reporter"
+           distribution="all"/>
+    <body>Seattle, WA - Today an anonymous individual
+           announced that NASA has completed building a
+           Warp Drive and has parked a ship which uses
+           the drive in his back yard.  This individual
+           claims that although he hasn't been contacted by
+           NASA concerning the parked space vessel, he assumes
+           that he will be launching it later this week to
+           mount an exhibition to the Andromeda Galaxy.
+    </body>
+</webArticle>
