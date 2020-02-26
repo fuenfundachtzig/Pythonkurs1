@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="66.107872mm"
+   height="162.94403mm"
+   viewBox="0 0 66.107872 162.94403"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="wasserfallkonzept.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5924"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5922"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-224.52229"
+     inkscape:cy="292.02407"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1861"
+     inkscape:window-height="1145"
+     inkscape:window-x="59"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.845863,-11.7258)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff7d7d;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect815"
+       width="65.578873"
+       height="17.575893"
+       x="40.110363"
+       y="11.9903"
+       ry="3.5907738" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.074406"
+       y="22.96726"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="57.074406"
+         y="22.96726"
+         style="font-size:8.46666718px;fill:#000000;fill-opacity:1;stroke-width:0.26458332">Konzept</tspan></text>
+    <rect
+       ry="3.5907738"
+       y="48.200085"
+       x="40.110363"
+       height="17.575893"
+       width="65.578873"
+       id="rect4600"
+       style="opacity:1;vector-effect:none;fill:#ffcb7d;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <text
+       id="text4604"
+       y="59.177048"
+       x="45.161957"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:8.46666718px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="59.177048"
+         x="45.161957"
+         id="tspan4602"
+         sodipodi:role="line">Anforderungen</tspan></text>
+    <rect
+       ry="3.5907738"
+       y="84.409874"
+       x="40.110363"
+       height="17.575893"
+       width="65.578873"
+       id="rect4608"
+       style="opacity:1;vector-effect:none;fill:#fffb7d;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <text
+       id="text4612"
+       y="95.386833"
+       x="59.678902"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:8.46666718px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="95.386833"
+         x="59.678902"
+         id="tspan4610"
+         sodipodi:role="line">Design</tspan></text>
+    <rect
+       ry="3.5907738"
+       y="120.61966"
+       x="40.110363"
+       height="17.575893"
+       width="65.578873"
+       id="rect4616"
+       style="opacity:1;vector-effect:none;fill:#8bff7d;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <text
+       id="text4620"
+       y="131.59662"
+       x="43.595123"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:8.46666718px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="131.59662"
+         x="43.595123"
+         id="tspan4618"
+         sodipodi:role="line">Implementieren</tspan></text>
+    <rect
+       ry="3.5907738"
+       y="156.82944"
+       x="40.110363"
+       height="17.575893"
+       width="65.578873"
+       id="rect4624"
+       style="opacity:1;vector-effect:none;fill:#9fc3ff;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <text
+       id="text4628"
+       y="167.8064"
+       x="65.057381"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:8.46666718px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="167.8064"
+         x="65.057381"
+         id="tspan4626"
+         sodipodi:role="line">Test</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4647"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4649"><rect
+           id="rect4651"
+           width="251.52798"
+           height="719.22864"
+           x="189.90868"
+           y="-42.186199" /></flowRegion><flowPara
+         id="flowPara4653"></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25736448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5924)"
+       d="m 72.899801,29.566194 c 0,17.575556 0,17.575556 0,17.575556"
+       id="path4674"
+       inkscape:connector-curvature="0"
+       inkscape:tile-cx="72.899799"
+       inkscape:tile-cy="38.353971"
+       inkscape:tile-w="2.6139192"
+       inkscape:tile-h="18.075193"
+       inkscape:tile-x0="71.59284"
+       inkscape:tile-y0="29.566193" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path4674"
+       xlink:href="#path4674"
+       id="use5036"
+       style="fill:#f5ff7d;stroke:#f5ff7d"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path4674"
+       xlink:href="#path4674"
+       transform="translate(0,36.150387)"
+       id="use5038"
+       style="fill:#f5ff7d;stroke:#f5ff7d"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path4674"
+       xlink:href="#path4674"
+       transform="translate(0,72.300774)"
+       id="use5040"
+       style="fill:#f5ff7d;stroke:#f5ff7d"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path4674"
+       xlink:href="#path4674"
+       transform="translate(0,108.45116)"
+       id="use5042"
+       style="fill:#f5ff7d;stroke:#f5ff7d"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
