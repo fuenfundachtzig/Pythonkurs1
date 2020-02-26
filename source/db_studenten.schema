@@ -1,0 +1,7 @@
+CREATE table studenten (
+       id INTEGER PRIMARY KEY AUTOINCREMENT,
+       nachname TEXT,
+       vorname TEXT,
+       matrikelnummer TEXT,
+       note TEXT
+);
