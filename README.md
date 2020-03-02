@@ -20,3 +20,10 @@ Hint: There is a plugin called [nbdime](https://nbdime.readthedocs.io/en/latest/
 * install `pre-commit` from (https://pre-commit.com/)
 * run `pre-commit install` in repository
 * when `jupyter-notebook-cleanup` reports `Failed` on `git commit` (it will whenever output has been removed), `git add` the changed files again and rerun `git commit`
+
+### Cherry-picking from a second repository
+* add the source as another remote: `git remote add public [URL]`
+* fetch commits: `git fetch public`
+* list them: `git log public/master`
+* cherry pick commit A..B: `git cherry-pick A^..B`
+* pushing to our master: `git push origin master`
