@@ -1,5 +1,5 @@
 # Info
-## Entry
+## Entry point
 The table of contents and overview is in [this notebook](notebooks/node0.ipynb).
 The original web page of the course is http://www-static.etp.physik.uni-muenchen.de/kurs/Computing/python2/.
 
@@ -13,6 +13,8 @@ Other methods would be:
 * You can discard all local changes permanently with `git reset --hard`.
 
 If `git status` shows no modified files, you can safely run `git pull` in your working copy to get the latest updates.
+
+Hint: There is a plugin called [nbdime](https://nbdime.readthedocs.io/en/latest/) that conveniently allows to display changes in the notebooks.
 
 ## How to avoid output in jupyter-notebooks being added to git
 * install `pre-commit` from (https://pre-commit.com/)
