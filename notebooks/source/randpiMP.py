@@ -23,12 +23,12 @@ class RandPi( multiprocessing.Process ) :
         overload of multiprocessing.Process.run()
         main control loop
         """
-        #print("%s starts" % (self.getName(),))
+        #print("%s starts" % (self.getName(),)) <- does not exist for Process
 
         for i in range(self.nit):
             if ( random.random()**2 + random.random()**2 < 1. ):
                 self.count += 1
-        print(self.count)
+        #print(self.count)
 
 def main():
     nit = 1000000
