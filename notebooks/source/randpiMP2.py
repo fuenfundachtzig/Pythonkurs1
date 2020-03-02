@@ -16,26 +16,19 @@ class RandPi( multiprocessing.Process ) :
         self.nit = nit
         self.count = 0
         self.res_queue = res_queue
-        multiprocessing.Process.__init__(self, name="RandPi")
+        multiprocessing.Process.__init__(self)
         
     def run(self):
         """
         overload of multiprocessing.Process.run()
         main control loop
         """
-#        print "%s starts" % (self.getName(),)
-
         for i in range(self.nit):
             if ( random.random()**2 + random.random()**2 < 1. ):
                 self.count += 1
 
         self.res_queue.put( self.count ) # put result in queue
         
-
-    pass
-
-
-
 
 def main():
     nit = 1000000
@@ -58,12 +51,11 @@ def main():
     for pth in tha:
         pth.join()
         result = results.get()
-        print(result)
+        print("result:", result)
         psum += result
 
     piest = 4.*float(psum) / ( nit * nth )
     print('Pi = ', piest)
-
 
 
 if __name__ == "__main__" :
