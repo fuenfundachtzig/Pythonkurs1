@@ -55,8 +55,9 @@ def main():
         print(pth.count)
         psum += pth.count
 
+    print("Psum:", psum)
     piest = 4.*float(psum) / ( nit * nth )
-    print('Pi = ', piest)
+    print("Pi:", piest)
 
 
 
