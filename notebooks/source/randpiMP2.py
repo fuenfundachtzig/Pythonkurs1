@@ -38,7 +38,7 @@ def main():
     if len(sys.argv)>2:
         nth = int(sys.argv[2])
 
-    # create & start threads
+    # create & start processes
     results = multiprocessing.Queue() # needed for communication of results
     tha = []
     for i in range(nth):
@@ -46,12 +46,12 @@ def main():
         pth.start()
         tha.append(pth)
 
-    # wait threads to finish and sum up counts
+    # wait for processes to finish and sum up counts
     psum = 0
     for pth in tha:
         pth.join()
         result = results.get()
-        print("result:", result)
+        print("Got result from process:", result)
         psum += result
 
     piest = 4.*float(psum) / ( nit * nth )

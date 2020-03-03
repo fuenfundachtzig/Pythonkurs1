@@ -1,6 +1,6 @@
 # calcuate Pi counting random hits in circle of radius 1
 # converted from threading to multiprocessing
-# gives no correct results
+# doesn't give correct results
 # 
 import multiprocessing
 import random
@@ -28,7 +28,8 @@ class RandPi( multiprocessing.Process ) :
         for i in range(self.nit):
             if ( random.random()**2 + random.random()**2 < 1. ):
                 self.count += 1
-        #print(self.count)
+        print("Process result in run:", self.count)
+
 
 def main():
     nit = 1000000
@@ -49,7 +50,7 @@ def main():
     psum = 0
     for pth in tha:
         pth.join()
-        print(pth.count)
+        print("Got result from process:", pth.count)
         psum += pth.count
 
     piest = 4.*float(psum) / ( nit * nth )
