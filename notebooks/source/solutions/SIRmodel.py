@@ -27,6 +27,9 @@ y0 = (1000., 1., 0.) # (note: we use floats although individual counts are integ
 N  = sum(y0)
 c  = 0.15
 w  = 0.05
+print("r =", c/w, "(basic reproduction number)")
+if c/w > N/y0[0]:
+  print("Outbreak")
 
 # solve system of ODEs
 S, I, R = odeint(F, y0, t, args = (N, c, w)).T
