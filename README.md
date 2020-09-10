@@ -12,7 +12,7 @@ Other methods would be:
 * You can discard all local changes, but save them for possible re-use later using `git stash`.
 * You can discard all local changes permanently with `git reset --hard`.
 
-If `git status` shows no modified files, you can safely run `git pull` in your working copy to get the latest updates.
+If `git status` shows no modified files, you can safely run `git pull` in your working copy to get the latest updates. Often, it's easiest to just try `git pull --rebase` to pull the changes and put your own changes on top of them.
 
 Hint: There is a plugin called [nbdime](https://nbdime.readthedocs.io/en/latest/) that conveniently allows to display changes in the notebooks.
 
