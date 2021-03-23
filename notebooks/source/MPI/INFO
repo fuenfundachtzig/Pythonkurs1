@@ -1,0 +1,9 @@
+# requires slurm: module load slurm
+salloc --ntasks=8 -p ls-schaile  # starte 8 nodes
+
+# run with:
+mpiexec -n 8 python helloMPI.py
+mpiexec -n 8 python findprimesMPI.py
+
+# use scancel to stop jobs when done
+# can also run locally (without salloc / slurm) for testing / demonstration
