@@ -6,9 +6,11 @@ from getpass import getpass
 SERVER = input("IMAP4 Server: ")
 if not SERVER:
   SERVER = "imap.physik.uni-muenchen.de"
+  print("using server", SERVER)
 MBOX   = input("IMAP4 Mailfolder: ")
 if not MBOX:
   MBOX = "INBOX"
+  print("using mail folder", MBOX)
 USER   = input("IMAP4 User: ")
 PASSWD = getpass("IMAP4 Password: ")
 
