@@ -1,0 +1,16 @@
+cython
+dbapi
+django
+ipywidgets
+markdown
+matplotlib
+mpi4py
+numba
+numpy
+pandas
+requests
+scipy
+seaborn
+sklearn
+sympy
+
