@@ -100,8 +100,6 @@ matplotlib==3.3.4
     #   seaborn
 mistune==0.8.4
     # via nbconvert
-mpi4py==3.0.3
-    # via -r requirements.in
 mpmath==1.2.1
     # via sympy
 nbclient==0.5.3
