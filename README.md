@@ -1,7 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fuenfundachtzig/Pythonkurs1/HEAD?filepath=notebooks%2Fnode0.ipynb)
+
 # Info
 ## Entry point
 The table of contents and overview is in [this notebook](notebooks/node0.ipynb).
 The original web page of the course is http://www-static.etp.physik.uni-muenchen.de/kurs/Computing/python2/.
+You can run the notebooks online by clicking the blue button reading `binder` above.
 
 ## Hints
 General hints useful in this context.
