@@ -40,10 +40,6 @@ entrypoints==0.3
     # via nbconvert
 idna==2.10
     # via requests
-importlib-metadata==3.10.0
-    # via
-    #   jsonschema
-    #   markdown
 ipykernel==5.5.3
     # via
     #   ipywidgets
@@ -231,11 +227,7 @@ traitlets==4.3.3
     #   nbconvert
     #   nbformat
     #   notebook
-typing-extensions==3.7.4.3
-    # via
-    #   asgiref
-    #   importlib-metadata
-urllib3==1.26.4
+urllib3==1.26.5
     # via requests
 wcwidth==0.2.5
     # via prompt-toolkit
@@ -243,8 +235,6 @@ webencodings==0.5.1
     # via bleach
 widgetsnbextension==3.5.1
     # via ipywidgets
-zipp==3.4.1
-    # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
