@@ -44,15 +44,15 @@ ipykernel==5.5.3
     # via
     #   ipywidgets
     #   notebook
+ipython==7.16.1
+    # via
+    #   ipykernel
+    #   ipywidgets
 ipython-genutils==0.2.0
     # via
     #   nbformat
     #   notebook
     #   traitlets
-ipython==7.16.1
-    # via
-    #   ipykernel
-    #   ipywidgets
 ipywidgets==7.6.3
     # via -r requirements.in
 jedi==0.18.0
@@ -112,7 +112,7 @@ nest-asyncio==1.5.1
     # via
     #   jupyter-client
     #   nbclient
-notebook==6.3.0
+notebook==6.4.1
     # via widgetsnbextension
 numba==0.53.1
     # via -r requirements.in
