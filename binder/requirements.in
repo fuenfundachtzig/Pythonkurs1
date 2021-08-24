@@ -2,6 +2,7 @@ cython
 dbapi
 django
 ipywidgets
+line-profiler
 markdown
 matplotlib
 numba
