@@ -203,7 +203,7 @@ six==1.15.0
     #   traitlets
 sklearn==0.0
     # via -r requirements.in
-sqlparse==0.4.1
+sqlparse==0.4.2
     # via django
 sympy==1.7.1
     # via -r requirements.in
